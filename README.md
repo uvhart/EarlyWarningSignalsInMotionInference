@@ -1,5 +1,5 @@
 # EarlyWarningSignalsInMotionInference
-# This folder holds the data for - 
+# This project holds the data for the 3 experiments described in the MS "Early Warning Signals in Motion Inference". It has three folders:
 1. Exp 1 - under Exp1 folder there is the data of experiment 1.
            Each GS_pair_X folder (where X is the number of the pair) there are the experimental data for each trial in a csv format.
            Each such csv file has the following data for each column: 
